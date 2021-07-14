@@ -15,12 +15,6 @@ public class Main_BOJ_G5_11000_강의실배정 {
 			this.start = start;
 			this.end = end;
 		}
-		@Override
-		public String toString() {
-			return "Meeting [start=" + start + ", end=" + end + "]";
-		}
-		
-		
 	}
 	public static void main(String[] args) {
 		Scanner scann = new Scanner(System.in);
