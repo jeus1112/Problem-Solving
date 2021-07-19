@@ -1,7 +1,11 @@
 package BOJ;
 
 import java.util.*;
-
+/**
+ * @author JAEWOO SHIM
+ * @date  
+ *
+ */
 public class Main_BOJ_S5_2891_카약과강풍 {
 
 	public static void main(String[] args) {
