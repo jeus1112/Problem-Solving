@@ -9,7 +9,7 @@ import java.util.Scanner;
  * @version 3
  * 
  */
-public class Main_BOJ_2564_경비원 {
+public class Main_BOJ_2564_경비원_S1 {
 	
 	// 오 아 왼 위
 	static int[] dr= {0,1,0,-1};

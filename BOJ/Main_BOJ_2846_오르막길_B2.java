@@ -2,7 +2,7 @@ package BOJ;
 
 import java.util.Scanner;
 
-public class Main_BOJ_B2_2846_오르막길 {
+public class Main_BOJ_2846_오르막길_B2 {
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);

@@ -2,7 +2,7 @@ package BOJ;
 
 import java.io.*;
 
-public class Main_BOJ_B1_1157_단어공부 {
+public class Main_BOJ_1157_단어공부_B1 {
     public static void main(String[] args) throws Exception{
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         char[] word = br.readLine().toUpperCase().toCharArray();

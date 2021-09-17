@@ -1,7 +1,7 @@
 package BOJ;
 import java.util.Scanner;
 
-public class Main_BOJ_17478_재귀함수가뭔가요 {
+public class Main_BOJ_17478_재귀함수가뭔가요_S5 {
 
 	static int N;
 

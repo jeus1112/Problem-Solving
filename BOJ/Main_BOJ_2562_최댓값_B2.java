@@ -3,7 +3,7 @@ package BOJ;
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 
-public class Main_BOJ_B2_2562_최댓값 {
+public class Main_BOJ_2562_최댓값_B2 {
 
 	public static void main(String[] args) throws Exception{
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));

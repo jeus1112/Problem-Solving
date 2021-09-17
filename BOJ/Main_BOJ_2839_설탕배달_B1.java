@@ -10,7 +10,7 @@ import java.util.Scanner;
  * Main_BOJ_B1_2839_설탕배달3
  */
 // dp
-public class Main_BOJ_B1_2839_설탕배달 {
+public class Main_BOJ_2839_설탕배달_B1 {
 
 	
 	public static void main(String[] args) {

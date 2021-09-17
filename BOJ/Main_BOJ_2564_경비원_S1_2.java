@@ -8,7 +8,7 @@ import java.util.StringTokenizer;
  * @date 21.04.13
  * 
  */
-public class Main_BOJ_2564_경비원2 {
+public class Main_BOJ_2564_경비원_S1_2 {
 	
 	static int n, m;
 	static int store;

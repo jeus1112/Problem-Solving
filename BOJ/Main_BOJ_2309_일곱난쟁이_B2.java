@@ -3,7 +3,7 @@ package BOJ;
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class Main_BOJ_B2_2309_일곱난쟁이 {
+public class Main_BOJ_2309_일곱난쟁이_B2 {
 
 	static int[] p;
 	static int[] num;

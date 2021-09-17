@@ -9,7 +9,7 @@ import java.util.Scanner;
  * 
  * 
  */
-public class Main_BOJ_B1_13706_제곱근 {
+public class Main_BOJ_13706_제곱근_B1 {
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);

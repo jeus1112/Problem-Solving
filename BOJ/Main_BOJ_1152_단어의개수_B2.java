@@ -2,7 +2,7 @@ package BOJ;
 
 import java.io.*;
 
-public class Main_BOJ_B2_1152_단어의개수 {
+public class Main_BOJ_1152_단어의개수_B2 {
     public static void main(String[] args) throws Exception{
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         String str = br.readLine();
