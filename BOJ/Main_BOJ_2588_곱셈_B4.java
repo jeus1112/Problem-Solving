@@ -2,7 +2,7 @@ package BOJ;
 
 import java.util.Scanner;
 
-public class Main_BOJ_B4_2588_곱셈 {
+public class Main_BOJ_2588_곱셈_B4 {
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
