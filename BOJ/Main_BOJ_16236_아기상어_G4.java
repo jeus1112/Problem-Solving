@@ -9,7 +9,7 @@ import java.util.Scanner;
  * @date 21.03.24
  * 
  */
-public class Main_BOJ_G4_16236_아기상어 {
+public class Main_BOJ_16236_아기상어_G4 {
 
 	static class Fish{
 		int x;
