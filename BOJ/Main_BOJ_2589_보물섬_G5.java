@@ -25,7 +25,7 @@ import java.util.StringTokenizer;
  *  각 지점마다 새롭게 bfs를 돌리고 가장 큰 깊이와 비교하며 시작점과 종점을 바꿔준다.
  *  
  */
-public class Main_BOJ_G5_2589_보물섬 {
+public class Main_BOJ_2589_보물섬_G5 {
 
 	static int n;
 	static int m;
