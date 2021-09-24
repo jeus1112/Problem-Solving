@@ -11,7 +11,7 @@ import java.util.Scanner;
  * 이렇게?
  * 
  */
-public class Main_BOJ_G2_17472_다리만들기2 {
+public class Main_BOJ_17472_다리만들기2_G2 {
 
 	static class Island implements Comparable<Island>{
 		int x;
