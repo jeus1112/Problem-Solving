@@ -3,7 +3,7 @@ package BOJ;
 import java.io.*;
 import java.util.*;
 
-public class Main_BOJ_B2_2908_상수 {
+public class Main_BOJ_2908_상수_B2 {
     public static void main(String[] args) throws Exception{
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         StringTokenizer st = new StringTokenizer(br.readLine());
