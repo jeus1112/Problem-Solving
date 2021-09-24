@@ -2,7 +2,7 @@ package BOJ;
 
 import java.io.*;
 
-public class Main_BOJ_B2_5622_다이얼 {
+public class Main_BOJ_5622_다이얼_B2 {
     public static void main(String[] args) throws Exception {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         // 숫자 1=2초
