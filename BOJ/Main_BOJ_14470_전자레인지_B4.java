@@ -2,7 +2,7 @@ package BOJ;
 
 import java.util.Scanner;
 
-public class Main_BOJ_B4_14470_전자레인지 {
+public class Main_BOJ_14470_전자레인지_B4 {
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
