@@ -4,7 +4,7 @@ import java.util.LinkedList;
 import java.util.Queue;
 import java.util.Scanner;
 
-public class Main_BOJ_G4_16397_탈출 {
+public class Main_BOJ_16397_탈출_G4 {
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
