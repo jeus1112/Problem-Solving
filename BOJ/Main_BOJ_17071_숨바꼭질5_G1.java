@@ -20,7 +20,7 @@ import java.util.Scanner;
  *  수빈이의 위치가 +-1을 하는것을 이용해서 동생의 위치일때 수빈이가 갈 수 있는지
  *  여부를 판단해주는 방식으로 시도했다.
  */
-public class Main_BOJ_G1_17071_숨바꼭질5 {
+public class Main_BOJ_17071_숨바꼭질5_G1 {
 
 	// Node 클래스를 만들어서 관리
 	static class Node{
