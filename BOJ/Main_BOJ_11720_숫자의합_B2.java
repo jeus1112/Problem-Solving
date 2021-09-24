@@ -2,7 +2,7 @@ package BOJ;
 
 import java.io.*;
 
-public class Main_BOJ_B2_11720_숫자의합 {
+public class Main_BOJ_11720_숫자의합_B2 {
     public static void main(String[] args) throws Exception{
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 
