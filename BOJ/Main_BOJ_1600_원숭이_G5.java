@@ -11,7 +11,7 @@ import java.util.Scanner;
  * @version 1
  * Main_BOJ_G5_1600_원숭이
  */
-public class Main_BOJ_G5_1600_원숭이 {
+public class Main_BOJ_1600_원숭이_G5 {
 	
     static int K, W, H;
     static int[][] map;
