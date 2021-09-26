@@ -5,7 +5,7 @@ import java.util.LinkedList;
 import java.util.Queue;
 import java.util.Scanner;
 
-public class Main_BOJ_G4_1707_이분그래프 {
+public class Main_BOJ_1707_이분그래프_G4 {
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
