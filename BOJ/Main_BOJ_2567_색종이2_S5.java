@@ -2,7 +2,7 @@ package BOJ;
 
 import java.util.Scanner;
 
-public class Main_BOJ_S5_2567_색종이2 {
+public class Main_BOJ_2567_색종이2_S5 {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 
