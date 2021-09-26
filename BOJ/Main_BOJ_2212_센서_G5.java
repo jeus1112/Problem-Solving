@@ -13,7 +13,7 @@ import java.util.StringTokenizer;
  *  기지국이 3개면 가장 먼 거리 2개를 뺄 수 있다.
  *  
  */
-public class Main_BOJ_G5_2212_센서 {
+public class Main_BOJ_2212_센서_G5 {
 
 	public static void main(String[] args) throws Exception {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
