@@ -9,7 +9,7 @@ import java.util.Scanner;
  * @version 1
  * Main_BOJ_G4_17406_배열돌리기4
  */
-public class Main_BOJ_G4_17406_배열돌리기4 {
+public class Main_BOJ_17406_배열돌리기4_G4 {
 
 	static int N, M, K;
 	static int[][] A;
