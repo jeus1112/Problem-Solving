@@ -5,8 +5,16 @@ import java.io.InputStreamReader;
 import java.util.LinkedList;
 import java.util.Queue;
 import java.util.StringTokenizer;
-
-public class Main_BOJ_G5_2636_치즈 {
+/**
+ * @Date :
+ * @Author : JAEWOO SHIM
+ *
+ * (0,0)은 항상 공기이므로 (0,0)에서 출발해서
+ * 공기인 경우에 bfs 진행
+ * 치즈가 사라지면 break;
+ *
+ */
+public class Main_BOJ_2636_치즈_G5 {
 
 	static int N,M;
 	static int[][] map;
