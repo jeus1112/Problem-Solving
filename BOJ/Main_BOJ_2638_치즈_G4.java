@@ -6,8 +6,15 @@ import java.util.Arrays;
 import java.util.LinkedList;
 import java.util.Queue;
 import java.util.StringTokenizer;
-
-public class Main_BOJ_G4_2638_치즈 {
+/**
+ * @Date :
+ * @Author : JAEWOO SHIM
+ *
+ * 2636번과 기본적인 로직은 똑같다.
+ * 차이점은 '두변이상 공기와 접촉해야 녹는다'는 점
+ * melt와 melted 부분을 약간 바꿔주어서 bfs 돌린다.
+ */
+public class Main_BOJ_2638_치즈_G4 {
 	static int N,M;
 	static int[][] map;
 	static int tot;
