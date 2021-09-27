@@ -21,7 +21,7 @@ import java.util.Queue;
  *	기존의 값과 비교해서 최소인 값을 dist[]에 넣어준다
  *
  */
-public class Main_BOJ_S1_12026_BOJ거리_dp {
+public class Main_BOJ_12026_BOJ거리_dp_S1 {
 
 	public static void main(String[] args) throws Exception {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));

@@ -6,7 +6,7 @@ import java.util.Arrays;
 import java.util.LinkedList;
 import java.util.Queue;
 
-public class Main_BOJ_S1_12026_BOJ거리 {
+public class Main_BOJ_12026_BOJ거리_S1 {
 
 	static class BOJ{
 		char word;
