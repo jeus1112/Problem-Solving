@@ -30,7 +30,7 @@ import java.util.Comparator;
  *	
  */
 
-public class Main_BOJ_G4_5052_전화번호목록 {
+public class Main_BOJ_5052_전화번호목록_G4 {
 
 	public static void main(String[] args) throws Exception{
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
