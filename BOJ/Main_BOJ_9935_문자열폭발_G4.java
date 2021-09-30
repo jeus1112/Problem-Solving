@@ -19,7 +19,7 @@ import java.util.*;
  * -> 폭탄인지 전체적으로 확인 후 폭탄 문자열 만큼 pop으로 해결
  *
  */
-public class Main_BOJ_G4_9935_문자열폭발 {
+public class Main_BOJ_9935_문자열폭발_G4 {
     public static void main(String[] args) throws Exception{
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         Stack<String> ss = new Stack<>();
