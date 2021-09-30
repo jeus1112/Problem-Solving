@@ -2,7 +2,7 @@ package BOJ;
 
 import java.util.Scanner;
 
-public class Main_BOJ_B1_1110_더하기사이클 {
+public class Main_BOJ_1110_더하기사이클_B1 {
 
 	public static void main(String[] args) {
 
