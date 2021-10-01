@@ -4,8 +4,16 @@ import java.util.Arrays;
 import java.util.Comparator;
 import java.util.PriorityQueue;
 import java.util.Scanner;
-
-public class Main_BOJ_G5_11000_강의실배정 {
+/**
+ * @Date :
+ * @Author : JAEWOO SHIM
+ *
+ * 시작시간 순으로 정렬해서 그리디로 강의실 개수를 새준다.
+ *
+ * 처음엔 종료시간 순으로 정렬했지만 틀렸던 문제.
+ *
+ */
+public class Main_BOJ_11000_강의실배정_G5 {
 
 	static class Meeting{
 		int start;
