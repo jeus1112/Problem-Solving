@@ -24,7 +24,7 @@ import java.io.InputStreamReader;
  *
  *	dfs 한번으로 풀 수 있을까요?
  */
-public class Main_BOJ_G5_10026_적록색약 {
+public class Main_BOJ_10026_적록색약_G5 {
 
 	static int N;
 	static char[][] map;
