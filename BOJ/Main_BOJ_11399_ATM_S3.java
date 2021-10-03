@@ -15,7 +15,7 @@ import java.util.Scanner;
  *	각 값의 최소가 되려면 시간값을 작은 순으로 정렬해서 각각을 더한 값을
  *	답에 더해준다.
  */
-public class Main_BOJ_S3_11399_ATM {
+public class Main_BOJ_11399_ATM_S3 {
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
