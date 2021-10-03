@@ -9,7 +9,7 @@ import java.util.ArrayList;
  * +숫자 뒤에 )
  *
  */
-public class Main_BOJ_S2_1541_잃어버린괄호 {
+public class Main_BOJ_1541_잃어버린괄호_S2 {
 
     public static void main(String[] args) throws Exception{
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
