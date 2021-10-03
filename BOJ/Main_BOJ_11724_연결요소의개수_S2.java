@@ -2,7 +2,7 @@ package BOJ;
 
 import java.util.Scanner;
 
-public class Main_BOJ_S2_11724_연결요소의개수 {
+public class Main_BOJ_11724_연결요소의개수_S2 {
 
 	static int N, M;
 	static int[][] node;
