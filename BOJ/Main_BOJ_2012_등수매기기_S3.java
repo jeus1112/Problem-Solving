@@ -3,7 +3,7 @@ package BOJ;
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class Main_BOJ_S3_2012_등수매기기 {
+public class Main_BOJ_2012_등수매기기_S3 {
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
