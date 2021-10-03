@@ -17,7 +17,7 @@ import java.util.Queue;
  *  +-, 0, 상수만 주어진 경우, 마지막이 n차항인 경우를 생각해주어야한다.
  *  
  */
-public class Main_BOJ_G5_17214_다항함수의적분 {
+public class Main_BOJ_17214_다항함수의적분_G5 {
 
 	static Queue<Character> q;	// 각 항을 넣을 queue
 	static StringBuilder sb;	// 계산된 다항식을 넣을 곳 
