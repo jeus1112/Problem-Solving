@@ -6,7 +6,7 @@ import java.util.LinkedList;
 import java.util.Queue;
 import java.util.StringTokenizer;
 
-public class Main_BOJ_S1_1743_음식물피하기 {
+public class Main_BOJ_1743_음식물피하기_S1 {
 
 	static int N,M,K;
 	static int[][] map;
