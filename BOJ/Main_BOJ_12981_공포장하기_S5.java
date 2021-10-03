@@ -8,7 +8,7 @@ import java.util.Scanner;
  *	3으로 먼저 나눠서 최대한 상자에 넣고
  *	그 뒤를 나눠서 넣어준다.
  */
-public class Main_BOJ_S5_12981_공포장하기 {
+public class Main_BOJ_12981_공포장하기_S5 {
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
