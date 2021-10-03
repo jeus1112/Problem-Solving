@@ -26,7 +26,7 @@ import java.util.StringTokenizer;
  *
  *출력은 각 구역의 인구수 차의 최소값
  */
-public class Main_BOJ_G5_17471_게리맨더링 {
+public class Main_BOJ_17471_게리맨더링_G5 {
 
 	static int N;	// 구역의 개수
 	static int[] people;	//가중치
