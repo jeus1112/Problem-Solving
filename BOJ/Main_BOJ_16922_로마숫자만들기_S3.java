@@ -8,7 +8,7 @@ import java.util.Scanner;
  *	중복 조합을 이용한다.
  *
  */
-public class Main_BOJ_S3_16922_로마숫자만들기 {
+public class Main_BOJ_16922_로마숫자만들기_S3 {
 
 	static int[] p = {1,5,10,50};
 	static int r;
