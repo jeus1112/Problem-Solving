@@ -2,7 +2,7 @@ package BOJ;
 
 import java.util.Scanner;
 
-public class Main_BOJ_S3_15651_N과M3 {
+public class Main_BOJ_15651_N과M3_S3 {
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
