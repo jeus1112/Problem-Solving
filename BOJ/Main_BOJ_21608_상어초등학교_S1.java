@@ -16,7 +16,7 @@ import java.util.StringTokenizer;
  *	시간초과가 나서 아예 처음부터 비교하면서 queue에 넣을 수 있게
  *	pq를 이용하니 pass함
  */
-public class Main_BOJ_S1_21608_상어초등학교 {
+public class Main_BOJ_21608_상어초등학교_S1 {
 
 	static class seat implements Comparable<seat>{
 		int r;
