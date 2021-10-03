@@ -14,7 +14,7 @@ import java.io.InputStreamReader;
  * 최소공배수 만큼 반복을 돌려주면 된다.
  *
  */
-public class Main_BOJ_S5_12871_무한문자열 {
+public class Main_BOJ_12871_무한문자열_S5 {
 
 	public static void main(String[] args) throws IOException {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
