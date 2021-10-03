@@ -8,7 +8,7 @@ import java.util.Scanner;
  * @version 1
  * Main_BOJ_S4_16926_배열돌리기1
  */
-public class Main_BOJ_S4_16926_배열돌리기1 {
+public class Main_BOJ_16926_배열돌리기1_S4 {
 
 	public static void main(String[] args) {
 
