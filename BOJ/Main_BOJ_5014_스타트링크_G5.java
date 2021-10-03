@@ -5,8 +5,14 @@ import java.io.InputStreamReader;
 import java.util.LinkedList;
 import java.util.Queue;
 import java.util.StringTokenizer;
-
-public class Main_BOJ_G5_5014_스타트링크 {
+/**
+ * @Date :
+ * @Author : JAEWOO SHIM
+ *
+ * bfs로 풀었고 그래프의 깊이가 곧 눌러야 하는 버튼의 수가 된다.
+ *
+ */
+public class Main_BOJ_5014_스타트링크_G5 {
 
 	public static void main(String[] args) throws Exception{
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
