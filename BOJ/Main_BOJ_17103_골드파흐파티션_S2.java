@@ -24,7 +24,7 @@ import java.util.Scanner;
  *	소수를 구해놓고 두개를 더해서 T가 되는 경우를 카운트한다.
  *	
  */
-public class Main_BOJ_S2_17103_골드파흐파티션 {
+public class Main_BOJ_17103_골드파흐파티션_S2 {
 
 	public static void main(String[] args) throws IOException {
 		
