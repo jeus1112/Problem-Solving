@@ -18,7 +18,7 @@ import java.util.StringTokenizer;
  * 	N개의 카드를 사고 싶을때 N개의 카드를 한번에 사는 경우와 N-i개와 i개의 카드를 구매하는 경우 두가지로 나뉜다
  * 	
  */
-public class Main_BOJ_S1_11052_카드구매하기 {
+public class Main_BOJ_11052_카드구매하기_S1 {
 
 	public static void main(String[] args) throws Exception {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
