@@ -5,8 +5,16 @@ import java.io.InputStreamReader;
 import java.util.LinkedList;
 import java.util.Queue;
 import java.util.StringTokenizer;
-
-public class Main_BOJ_G5_6593_상범빌딩 {
+/**
+ * @Date :
+ * @Author : JAEWOO SHIM
+ *
+ * dl[]로 상하
+ * dr[], dc[]로 2차원에서 동서남북
+ * 을 골라서 bfs 진행
+ *
+ */
+public class Main_BOJ_6593_상범빌딩_G5 {
 
 	static int L, R, C;
 	static char[][][] map;
