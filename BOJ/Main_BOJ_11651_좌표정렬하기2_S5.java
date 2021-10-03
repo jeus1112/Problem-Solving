@@ -8,7 +8,7 @@ import java.util.Scanner;
  * @author SHIM
  * @date 21.03.28
  */
-public class Main_BOJ_S5_11651_좌표정렬하기2 {
+public class Main_BOJ_11651_좌표정렬하기2_S5 {
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
