@@ -3,7 +3,15 @@ package BOJ;
 import java.util.LinkedList;
 import java.util.Queue;
 import java.util.Scanner;
-
+/**
+ * @Date :
+ * @Author : JAEWOO SHIM
+ *
+ * A버튼을 누를때와 B버튼을 누를때를 que에 넣어서
+ * bfs를 진행했다.
+ *
+ *
+ */
 public class Main_BOJ_16397_탈출_G4 {
 
 	public static void main(String[] args) {
