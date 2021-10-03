@@ -13,7 +13,7 @@ import java.util.StringTokenizer;
 	int[] dh = {0,0,0,0,1,-1};
  *
  */
-public class Main_BOJ_S1_7569_토마토 {
+public class Main_BOJ_7569_토마토_S1 {
 
 	static int N, M, H;
 	static int[][][] map;
