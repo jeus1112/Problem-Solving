@@ -13,7 +13,7 @@ import java.util.StringTokenizer;
  * @version 1
  * 
  */
-public class Main_BOJ_G5_1753_최단경로 {
+public class Main_BOJ_1753_최단경로_G5 {
 	static class Edge{
 		int v;
 		int w;
