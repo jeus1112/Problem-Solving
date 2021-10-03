@@ -22,7 +22,7 @@ import java.util.StringTokenizer;
  *	출력해준다.
  *	
  */
-public class Main_BOJ_G5_5430_AC {
+public class Main_BOJ_5430_AC_G5 {
 
 	public static void main(String[] args) throws Exception {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
