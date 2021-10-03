@@ -5,8 +5,10 @@ import java.util.*;
  * @author JAEWOO SHIM
  * @date  
  *
+ * PriorityQueue를 이용해서 풀었다.
+ *
  */
-public class Main_BOJ_S5_2891_카약과강풍 {
+public class Main_BOJ_2891_카약과강풍_S5 {
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
