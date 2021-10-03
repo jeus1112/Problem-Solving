@@ -7,7 +7,7 @@ import java.util.Scanner;
  * @algorithm DP
  * 
  */
-public class Main_BOJ_S3_1로만들기 {
+public class Main_BOJ_1463_1로만들기_S3 {
 
 	public static void main(String[] args) {
 		
