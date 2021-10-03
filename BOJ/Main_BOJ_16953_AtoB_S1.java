@@ -18,7 +18,7 @@ import java.util.StringTokenizer;
  *	<풀이>
  *	1번과 2번 계산을 bfs를 이용해 최소값을 찾는다.
  */
-public class Main_BOJ_S1_16953_AtoB {
+public class Main_BOJ_16953_AtoB_S1 {
 
 	public static void main(String[] args) throws Exception {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
