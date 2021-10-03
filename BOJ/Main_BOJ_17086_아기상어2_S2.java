@@ -2,7 +2,7 @@ package BOJ;
 import java.util.ArrayList;
 import java.util.Scanner;
 
-public class Main_BOJ_S2_17086_아기상어2 {
+public class Main_BOJ_17086_아기상어2_S2 {
 
 	static int M,N;
 	static int [][] map, sharks;
