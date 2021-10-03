@@ -8,7 +8,7 @@ import java.util.Scanner;
  * @version 1
  * Main_BOJ_S1_1074_Z
  */
-public class Main_BOJ_S1_1074_Z {
+public class Main_BOJ_1074_Z_S1 {
 
 	static int N, r, c, cnt;
 
