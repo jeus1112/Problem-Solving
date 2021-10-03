@@ -19,7 +19,7 @@ import java.util.Scanner;
  *	팰린드롬 수 인지를 판별하여 그 수가 N보다 크면 답으로 리턴한다.
  *
  */
-public class Main_BOJ_G5_1747_소수팰린드롬 {
+public class Main_BOJ_1747_소수팰린드롬_G5 {
 
 	static int ans;
 	public static void main(String[] args) {
