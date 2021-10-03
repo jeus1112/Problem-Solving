@@ -3,7 +3,7 @@ package BOJ;
 import java.io.*;
 import java.util.*;
 
-public class Main_BOJ_S2_1260_DFS와BFS {
+public class Main_BOJ_1260_DFS와BFS_S2 {
 
 	static int N, M, V;
 	static int[][] node;
