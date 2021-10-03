@@ -3,7 +3,7 @@ package BOJ;
 import java.io.*;
 import java.util.*;
 
-public class Main_BOJ_S2_7562_나이트의이동 {
+public class Main_BOJ_7562_나이트의이동_S2 {
 
 	public static void main(String[] args) throws Exception {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
