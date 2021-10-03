@@ -3,7 +3,7 @@ import java.util.LinkedList;
 import java.util.Queue;
 import java.util.Scanner;
 
-public class Main_BOJ_G5_14502_연구소 {
+public class Main_BOJ_14502_연구소_G5 {
 
 	static int N, M;
 	static int[][] map;
