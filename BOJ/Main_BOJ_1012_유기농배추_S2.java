@@ -3,7 +3,7 @@ package BOJ;
 import java.io.*;
 import java.util.*;
 
-public class Main_BOJ_S2_1012_유기농배추 {
+public class Main_BOJ_1012_유기농배추_S2 {
 
 	
 	public static void main(String[] args) throws Exception {
