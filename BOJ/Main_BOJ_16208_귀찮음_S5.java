@@ -10,7 +10,7 @@ import java.util.StringTokenizer;
  *	답을 long 으로 선언해주자..
  *	곱셈을 해봐!
  */
-public class Main_BOJ_S5_16208_귀찮음 {
+public class Main_BOJ_16208_귀찮음_S5 {
 
 	public static void main(String[] args) throws Exception {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
