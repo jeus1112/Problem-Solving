@@ -6,7 +6,9 @@ import java.util.StringTokenizer;
  * 
  * @author JAEWOO SHIM
  * @date 21.04.13
- * 
+ *
+ * 직사각형을 직선으로 펼쳐서 거리를 잰다.
+ *
  */
 public class Main_BOJ_2564_경비원_S1_2 {
 	
