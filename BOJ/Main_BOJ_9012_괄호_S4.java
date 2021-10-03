@@ -3,7 +3,7 @@ package BOJ;
 import java.io.*;
 import java.util.Stack;
 
-public class Main_BOJ_S4_9012_괄호 {
+public class Main_BOJ_9012_괄호_S4 {
     public static void main(String[] args) throws Exception {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         int TC = Integer.parseInt(br.readLine());
