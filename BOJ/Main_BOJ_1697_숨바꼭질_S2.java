@@ -4,7 +4,7 @@ import java.util.LinkedList;
 import java.util.Queue;
 import java.util.Scanner;
 
-public class Main_BOJ_S2_1697_숨바꼭질 {
+public class Main_BOJ_1697_숨바꼭질_S2 {
 
 	static int subin, bro;
 	public static void main(String[] args) {
