@@ -5,8 +5,17 @@ import java.io.InputStreamReader;
 import java.util.LinkedList;
 import java.util.Queue;
 import java.util.StringTokenizer;
-
-public class Main_BOJ_G5_3055_탈출 {
+/**
+ * @Date :
+ * @Author : JAEWOO SHIM
+ *
+ * 물은 (R,C,1)
+ * 고슴도치는 (R,C,0) 으로 구분하고
+ * 물이 찰 예정인 곳은 갈 수 없으므로
+ * 물을 먼저 Queue에 넣고 bfs를 진행했다.
+ *
+ */
+public class Main_BOJ_3055_탈출_G5 {
 
 	public static void main(String[] args) throws Exception {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
@@ -40,13 +49,14 @@ public class Main_BOJ_G5_3055_탈출 {
 					ec=j;
 				}
 				if (map[i][j]=='*') {
-					que.offer(i); que.offer(j); que.offer(1);
+					que.offer(i); que.offer(j); que.offer(1); //물이면 일단 Queue에 넣는다.
 					v[i][j]=0;
 				}
 			}
 		}
-		que.offer(sr); que.offer(sc); que.offer(0);
+		que.offer(sr); que.offer(sc); que.offer(0); //물을 다 넣고 마지막으로 고슴도치를 넣는다.
 		v[sr][sc]=0;
+		//물이 Queue의 가장 앞에 있다.
 		while(!que.isEmpty()) {
 			int curR = que.poll();
 			int curC = que.poll();
