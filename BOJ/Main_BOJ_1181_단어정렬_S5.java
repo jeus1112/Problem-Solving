@@ -9,7 +9,7 @@ import java.util.Comparator;
  * @author SHIM
  * @date 21.03.28
  */
-public class Main_BOJ_S5_1181_단어정렬 {
+public class Main_BOJ_1181_단어정렬_S5 {
 
 	public static void main(String[] args) throws Exception {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
