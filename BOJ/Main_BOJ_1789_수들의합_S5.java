@@ -18,7 +18,7 @@ import java.util.Scanner;
  *	값이 나갔다면 cnt-- 를 해주면 개수가 나온다.
  *
  */
-public class Main_BOJ_S5_1789_수들의합 {
+public class Main_BOJ_1789_수들의합_S5 {
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
