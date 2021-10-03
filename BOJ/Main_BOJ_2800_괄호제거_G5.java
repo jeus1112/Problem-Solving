@@ -6,7 +6,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Stack;
 
-public class Main_BOJ_G5_2800_괄호제거 {
+public class Main_BOJ_2800_괄호제거_G5 {
     static class ssang{
         int left;
         int right;
